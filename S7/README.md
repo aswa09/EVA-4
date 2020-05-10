@@ -13,8 +13,5 @@
 ## Results
 
 1. RF is greater then 44
-2. convblock3 - Depthwise Separable Convolution
-3. convblock5 - Dilated Convolution
-4. Added GAP
-5. Max Accuracy: 83.19% on EPOCH 18
-6. Total Params: 141,376
+2. accuracy>80%
+3. Added GAP
