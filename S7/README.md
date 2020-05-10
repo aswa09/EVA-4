@@ -12,7 +12,7 @@
 
 ## Results
 
-1. RF is greater then 44
+1. RF > 44
 2. accuracy>80%
 3. Added GAP
 4. Added Depthwise Separable Convolution
