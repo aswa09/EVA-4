@@ -14,7 +14,7 @@
 
 1. RF > 44
 2. Epochs: 25
-3. accuracy > 80% (consistently from epoch 15 onwards)
+3. accuracy > 80% (consistently from epoch 8 onwards)
 4. Added GAP
 5. Added Depthwise Separable Convolution
 6. Added Dilated Convolution
