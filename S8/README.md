@@ -24,7 +24,7 @@
 
 #### Image Augmentation Techniques
 - Random Horizontal Flip: 0.5
-- Normalizing: 0.25
+- Normalizing
 
 #### Results
 - Heighest Accuracy achieved: 86.37% (epoch:25)
