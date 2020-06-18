@@ -43,14 +43,15 @@
 
 #### Results
 - Target accuracy of 88% achieved
-- Heighest Accuracy achieved: 91.56% (epoch:36)
+- Heighest Accuracy achieved: 90.48% (epoch:37)
 - Observations:
-  - Consistently above 90% accuracy from epoch 22 onwards.
+  - Consistently above 90% accuracy from epoch 18 onwards.
+
+#### Loss vs Learning Rate
+<img src="https://github.com/aswa09/EVA-4/blob/master/S10/results/loss_vs_learningrate.png">
 
 #### Train vs Test Loss & Accuracy
 <img src="https://github.com/aswa09/EVA-4/blob/master/S10/results/acc_vs_loss.jpg">
 
-#### Sample Gradcam results for misclassified images:
-
-##### Actual: Cat, Predicted: Dog
-<img src="https://github.com/aswa09/EVA-4/blob/master/S10/results/gradcam/gradcam_incorrect_0_dog.png">
+#### Gradcam for 25 misclassified images:
+<img src="https://github.com/aswa09/EVA-4/blob/master/S10/results/gradcam.png">
