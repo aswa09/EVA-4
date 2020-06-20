@@ -40,8 +40,6 @@ Assignment:
 - Scheduler: OneCycleLR
 - Batch Size: 512
 - Epochs: 24
-- L1 decay: 2e-6
-- L2 decay: 6e-4
 
 ### Image Augmentation Techniques
 - PadIfNeeded
@@ -61,13 +59,16 @@ OneCycleLR:
 - pct: 5/24
 
 ### Results
-Achieved  an accuracy of **89%** 
+Achieved  an accuracy of **91.14%** 
 
 #### Train vs Test Accuracy
-<img src="https://github.com/aswa09/EVA-4/blob/master/S11/results/acc_trn_vs_tst.png">
+<img src="https://github.com/aswa09/EVA-4/blob/master/S11/results/acc_trn_vs_tst.jpg">
 
 #### LR Scheduler:
-<img src="https://github.com/aswa09/EVA-4/blob/master/S11/results/LR_scheduler.png">
+<img src="https://github.com/aswa09/EVA-4/blob/master/S11/results/lr_vs_acc.png">
+
+#### Gradcam for 8 misclassified images:
+<img src="https://github.com/aswa09/EVA-4/blob/master/S11/results/gradcam.png">
 
 #### Triangular wave:
 <img src="https://github.com/aswa09/EVA-4/blob/master/S11/results/triangular.png">
