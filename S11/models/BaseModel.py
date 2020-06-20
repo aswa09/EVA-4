@@ -114,9 +114,6 @@ class Net(nn.Module):
                 loader. (default: None)
             callbacks (list, optional): List of callbacks to be used during training.
                 (default: None)
-            track (str, optional): Can be set to either 'epoch' or 'batch' and will
-                store the changes in loss and accuracy for each batch
-                or the entire epoch respectively. (default: 'epoch')
         """
         self.learner = Learner(
             self, optimizer, criterion, train_loader, device=device, epochs=epochs,
