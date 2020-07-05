@@ -66,12 +66,12 @@
     <img src="https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/YoloV3/output/image-3876.jpg" width="400" />
   </p>
 
-  - Training collab:
+  - Training collage:
   <p style="text-align:center;">
     <img src="https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/results/train_batch0.png" width="800" />
   </p>
 
-  - Testing collab:
+  - Testing collage:
   <p style="text-align:center;">
     <img src="https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/results/test_batch0.png" width="800" />
   </p>
