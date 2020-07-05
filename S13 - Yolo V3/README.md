@@ -6,7 +6,7 @@
 
   #### Result
   <p style='text-align:center;'>
-    <img src="https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/results/Labelled.png" />
+    <img src="https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/results/Labelled.png" width="400"/>
   </p>
 
 ### Part 2 - YOLO v3 with PyTorch
@@ -17,8 +17,8 @@
 
   ### Result
 
-  Click on the video below to play  
-  [![](https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/YoloV3/output/image-0003.jpg)](https://youtu.be/QT1lcrZq3kY)
+  Click on the video below to play
+  [](https://youtu.be/QT1lcrZq3kY 'Chess Piece detection with Yolo V3 - GM Kasparov vs GM Karpov (1987)')
 
   ### Parameters and Hyperparameters
 
