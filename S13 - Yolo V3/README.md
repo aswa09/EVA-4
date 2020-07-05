@@ -1,22 +1,24 @@
 # Session 13 - YOLO 2 & 3
 
-### Part 1 - YOLO v3 with OpenCV
+## Part 1 - YOLO v3 with OpenCV
 
   - Detecting objects in an image where there is a person and an object from the COCO classes present in the image.  
 
-  #### Result
+  ### Result
   <p style='text-align:center;'>
     <img src="https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/results/Labelled.png" width="400"/>
   </p>
 
-### Part 2 - YOLO v3 with PyTorch
+## Part 2 - YOLO v3 with PyTorch
 
   - Object detection with Yolo v3 on a class that doesn't belong to COCO dataset.
   - Object(s): Chess pieces
   - Classes:king, queen, rook, bishop, knight and pawn
 
   ### Result
-
+  Click the video below
+  [![](https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/YoloV3/output/image-0003.jpg)](https://youtu.be/QT1lcrZq3kY 'Chess Piece detection with Yolo V3 - GM Kasparov vs GM Karpov (1987)')
+  
   ### Parameters and Hyperparameters
 
   - Number of images: 500
