@@ -19,7 +19,7 @@
   Click the video below
   [![](https://github.com/aswa09/EVA-4/blob/master/S13%20-%20Yolo%20V3/YoloV3/output/image-0003.jpg)](https://youtu.be/QT1lcrZq3kY 'Chess Piece detection with Yolo V3 - GM Kasparov vs GM Karpov (1987)')
   
-  if in case this video is unavailable, kindly refer to the video [here(google drive)](https://drive.google.com/file/d/1p3jZX6hRz04gJTikF3Trp2tRjDZROcqG/view?usp=sharing) or [here(alternate YT link)](https://youtu.be/DLx3l61S04Y)
+  ## if in case this video is unavailable, kindly refer to the video [here(google drive)](https://drive.google.com/file/d/1p3jZX6hRz04gJTikF3Trp2tRjDZROcqG/view?usp=sharing) or [here(alternate YT link)](https://youtu.be/DLx3l61S04Y)
   
   ### Parameters and Hyperparameters
 
