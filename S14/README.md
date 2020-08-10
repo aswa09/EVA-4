@@ -18,8 +18,40 @@ Dataset Link:
     - 100 zip files divided based on bg
     - each bg zip contains 4000 images
     - Depth maps of overlayed foreground-background images
+
 - **labels.txt**: text file containing location of foreground in each background
 
+## Sample Images:
+
+**bg**
+<p style="text-align:center;">
+    <img src="https://github.com/aswa09/EVA-4/blob/master/S14/results/bg_grid.png" width="1000" />
+</p>
+
+**fg**
+<p style="text-align:center;">
+    <img src="https://github.com/aswa09/EVA-4/blob/master/S14/results/fg_grid.png" width="500" />
+</p>
+
+**fg_mask**
+<p style="text-align:center;">
+    <img src="https://github.com/aswa09/EVA-4/blob/master/S14/results/fg_mask_grid.png" width="500" />
+</p>
+
+**fg_bg** 
+<p style="text-align:center;">
+    <img src="https://github.com/aswa09/EVA-4/blob/master/S14/results/fg_bg_grid.png" width="1000" />
+</p>
+
+**fg_bg_mask**
+<p style="text-align:center;">
+    <img src="https://github.com/aswa09/EVA-4/blob/master/S14/results/fg_bg_mask_grid.png" width="1000" />
+</p>
+
+**fg_bg_depth**
+<p style="text-align:center;">
+    <img src="https://github.com/aswa09/EVA-4/blob/master/S14/results/fg_bg_depth_grid.png" width="1000" />
+</p>
 
 ## Content Description
 
@@ -64,7 +96,7 @@ Dataset Link:
 
 ## Statistics
 
-[![Open In Colab]()
+[![Open In Colab](https://github.com/aswa09/EVA-4/blob/master/S14/EVA4_S15A_data_statistics.ipynb)
 
 - Dataset Size: 
 - Number of Images: 1,200,100
@@ -92,7 +124,7 @@ Dataset Link:
 
 ## Dataset Creation
 
-[![Open In Colab]()
+[![Open In Colab](https://github.com/aswa09/EVA-4/blob/master/S14/EVA4_S15A_data_generation.ipynb)
 
 The dataset was created as follows
 
@@ -173,5 +205,5 @@ Thus, total number of images in the dataset is **1,200,000**.
 
 To create the monocular depth estimation map of the background-foreground images, we use pretrained DenseNet-201. Implementation for the model inference was referenced from [this](https://github.com/ialhashim/DenseDepth) repository.
 
-###Modifications:
+### Modifications:
 As the basic file structure was different from the original, the code for testing, etc has been modified to work on zip files directly and store the results in zip files of the same structure.
