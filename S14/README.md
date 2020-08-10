@@ -155,7 +155,7 @@ The dataset was created as follows
 
 - All the downloaded foreground images should have a transparent background in order to overlay them on top of background images.
 - For removing backgrounds, **GIMP - GNU Image Manipulation Program** can be used
-- Steps for removing background using GIMP has been shown below:
+- Steps for removing background using GIMP: I followed [this link](https://help.surveyanyplace.com/en/support/solutions/articles/35000041561-how-to-make-a-logo-with-transparent-background-using-gimp-or-photoshop)
 - Images are exported as PNG because to retain transparency.
 
 ### Mask creation for foregrounds
