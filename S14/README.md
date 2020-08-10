@@ -96,7 +96,7 @@ Dataset Link:
 
 ## Statistics
 
-[![Open In Colab](https://github.com/aswa09/EVA-4/blob/master/S14/EVA4_S15A_data_statistics.ipynb)
+[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aswa09/EVA-4/blob/master/S14/EVA4_S15A_data_statistics.ipynb)
 
 - Dataset Size: 
 - Number of Images: 1,200,100
@@ -124,7 +124,7 @@ Dataset Link:
 
 ## Dataset Creation
 
-[![Open In Colab](https://github.com/aswa09/EVA-4/blob/master/S14/EVA4_S15A_data_generation.ipynb)
+[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aswa09/EVA-4/blob/master/S14/EVA4_S15A_data_generation.ipynb)
 
 The dataset was created as follows
 
