@@ -11,6 +11,7 @@
 - Assignment 15th is THE qualifying assignment. 
 
 ## Solution:
+Colab file -> [https://github.com/aswa09/EVA-4/blob/master/S15/EVA4_S15.ipynb](https://github.com/aswa09/EVA-4/blob/master/S15/EVA4_S15.ipynb)
 ### Objective:
 - Given an image with foreground objects and background image, predict the depth map as well as a mask for the foreground object.
 ### Basics:
