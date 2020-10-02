@@ -5,7 +5,7 @@
   - [Click here for more details](https://github.com/aswa09/EVA-4/blob/master/S4/README.md)
 - S5 Coding Drill
   - [Click here for more details](https://github.com/aswa09/EVA-4/blob/master/S5/README.md)
-- S6 BN, Kernels & Regularization
+- S6 BatchNorm, Kernels & Regularization
   - [Click here for more details](https://github.com/aswa09/EVA-4/blob/master/S6/README.md)
 - S7 Advanced Convolutions
   - [Click here for more details](https://github.com/aswa09/EVA-4/blob/master/S7/README.md)
