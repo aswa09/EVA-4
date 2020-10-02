@@ -1,6 +1,6 @@
 
 ## EVA4 - Assignment 10
-
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S10/EVA4_S10.ipynb)
 ### Assignment: 
 
 - Pick your last code
