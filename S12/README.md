@@ -5,11 +5,13 @@
 ## Assignment:
 
   ### Assignment A:
+  [Code link](https://github.com/aswa09/EVA-4/blob/master/S12/EVA4_S12_tinyimagenet.ipynb)
     - Download this TINY IMAGENET (Links to an external site.) dataset. 
     - Train ResNet18 on this dataset (70/30 split) for 50 Epochs. Target 50%+ Validation Accuracy. 
     - Submit Results. Of course, you are using your own package for everything. You can look at this (Links to an external site.) for reference. 
 
   ### Assignment B:
+  [Code link](https://github.com/aswa09/EVA-4/blob/master/S12/EVA4_S12_dogs.ipynb)
     - Download 50 images of dogs. 
     - Use this (Links to an external site.) to annotate bounding boxes around the dogs.
     - Download JSON file. 
