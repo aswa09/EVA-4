@@ -1,5 +1,5 @@
 ## ASSIGNMENT 4
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/github.com/aswa09/EVA-4/blob/master/S4/EVA4_Assignment_4.ipynb)
 ### Edit the Colab File such that it achieves:
 
     * 99.4% validation accuracy
