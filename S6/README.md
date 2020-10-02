@@ -1,3 +1,4 @@
+## [Code link](https://github.com/aswa09/EVA-4/blob/master/S6/EVA4_S6.ipynb)
 **Effect of Regularization on Test Loss and Test Accuracy**
 
 ![test_loss_and_test_acc](https://github.com/aswa09/EVA-4/blob/master/S6/test_loss_and_test_acc.png)
