@@ -1,6 +1,6 @@
 
 ## EVA4 - Assignment 8
-
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S8/EVA4_S8.ipynb)
 ### Assignment: 
 
 - Go through this repository: https://github.com/kuangliu/pytorch-cifar (Links to an external site.)
