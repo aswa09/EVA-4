@@ -1,4 +1,5 @@
 # CODE 1: Basic model and setup
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S5/EVA4_S5_F1.ipynb)
 ## Target: basic model with setup	
 1. get train and test data
 2. set transforms
@@ -16,6 +17,7 @@ Best Test Accuracy: 99.19% (EPOCH 13)
 3. Overfitted
 
 # CODE 2: Reducing number of parameters
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S5/EVA4_S5_F2.ipynb)
 ## Target:
 1. Changed the number of kernels and layers to reduced the number of parameters
 ## Result:
@@ -28,6 +30,7 @@ Best Test Accuracy: 99.14% (EPOCH 13)
 3. Margin between Train and Test accuracies has reduced, has potential to improve
 
 # CODE 3: Batchnorm
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S5/EVA4_S5_F3.ipynb)
 ## Target: 	
 1. Batchnorm included after every convolution to improve performance
 ## Result:
@@ -39,6 +42,7 @@ Best Test Accuracy: 99.29% (EPOCH 10)
 2. we can try making model more efficient by regularizing the data
 
 # CODE 4: Regularization(dropout)
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S5/EVA4_S5_F4.ipynb)
 ## Target:  
 1. Added dropout as regularization to increase both train and test accuracy
 ## Result:
@@ -51,6 +55,7 @@ Best Test Accuracy: 99.43% (EPOCH 14)
 3. There is even more consistency in the test accuracy from the 8th epoch (excluding epoch 13)
 
 # CODE 5: Augmentation
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S5/EVA4_S5_F5.ipynb)
 ## Target:	
 1. Random rotation of 5 degrees included in Training dataset to increase capability
 ## Result:
