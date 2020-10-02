@@ -1,5 +1,5 @@
 ## EVA4 - Assignment 7 - Advanced Convolutions
-
+[Code link](https://github.com/aswa09/EVA-4/blob/master/S7/EVA4_S7.ipynb)
 ### Assignment
 
 1. Change the code such that it uses GPU
